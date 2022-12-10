@@ -1,1 +1,1 @@
-console.log('SISTEMA')
+console.log('SISTEMA - 1.0.0')
